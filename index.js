@@ -6,7 +6,6 @@ function myAnimal() {
 
 function yourAnimal() {
     var yourAnimal
-    myAnimal = yourAnimal;
   return yourAnimal;
 }
 
